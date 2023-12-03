@@ -29,3 +29,6 @@ The OpenVPN Auto Switcher is a Python script designed to streamline the process 
     pip install --upgrade pip
     pip install -r requirements.txt
     ```
+## Screenshot
+
+<img src=".img/screenshot.gif" width="404">
