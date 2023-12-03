@@ -1,0 +1,11 @@
+
+module openvpn-firewalld 1.0;
+
+require {
+	type firewalld_t;
+	type openvpn_t;
+	class dbus send_msg;
+}
+
+#============= openvpn_t ==============
+allow openvpn_t firewalld_t:dbus send_msg;
