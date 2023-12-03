@@ -31,4 +31,4 @@ The OpenVPN Auto Switcher is a Python script designed to streamline the process 
     ```
 ## Screenshot
 
-<img src=".img/screenshot.gif" width="404">
+<img src=".img/screenshot.gif" width="800">
